@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there</h2>
 <!-- <img align='right' src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="180"> -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mvyynf5yxqfelkur4d7ja3jacm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 <p><em>Full-Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykiiru&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
@@ -43,6 +42,8 @@
 ###### Since Jan 18 2022
 [![wakatime](https://wakatime.com/badge/user/5a50e193-2e98-47bd-9b67-0952bed984cf.svg)](https://wakatime.com/@5a50e193-2e98-47bd-9b67-0952bed984cf)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mvyynf5yxqfelkur4d7ja3jacm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <div display="inline-flex" width="80%" justify-content="space-between">
    
