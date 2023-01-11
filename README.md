@@ -22,7 +22,7 @@
 ~$ whatido
 . I write code 
 . While taking coffee
-. And listening to the Weekend
+. And listening to The Weeknd
 
 ~$ fav --projects
 . Instagram Clone
@@ -31,6 +31,10 @@
 
 ~$ facts
 . We are all NPCs
+
+~$ Goals
+. Mercs
+. Macs
 
 ```
 
