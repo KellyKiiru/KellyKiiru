@@ -1,5 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"> -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mvyynf5yxqfelkur4d7ja3jacm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 <p><em>Full-Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykiiru&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
