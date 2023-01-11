@@ -62,4 +62,5 @@
 ![](https://raw.githubusercontent.com/kellykiiru/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kellykiiru/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
-<img width="560px" src="https://wakatime.com/share/@kellykiiru/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
+<img width="560px" src="https://wakatime.com/share/@KellyKiiru/6d3e5957-0a87-4bcb-9f65-4e159cffca22.svg" />
+
