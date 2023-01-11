@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 <p><em>Full-Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img src="https://komarev.com/ghpvc/?username=kellykiiru&&style=flat-square" align="center" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykiiru&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
 [![Twitter Follow](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thatsmeryan)
 [![Linkedin: kellykiiru](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/kelly-kiiru-15a852231/)
@@ -12,7 +12,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykiiru&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
 ```sh
 ~$ whoami
