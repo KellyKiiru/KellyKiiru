@@ -5,7 +5,7 @@
 </em></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykiiru&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
-[![Twitter Follow](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thatsmeryan)
+[![Twitter Follow](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kellykiiru)
 [![Linkedin: kellykiiru](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/kelly-kiiru-15a852231/)
 ![GitHub followers](https://img.shields.io/github/followers/kellykiiru?label=Follow&style=social)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kiiru___/)
