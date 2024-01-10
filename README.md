@@ -74,3 +74,7 @@
 
 <!-- <img width="560px" src="https://wakatime.com/share/@KellyKiiru/6d3e5957-0a87-4bcb-9f65-4e159cffca22.svg" /> -->
 
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kellykiiru&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
