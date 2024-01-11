@@ -74,9 +74,6 @@
 
 <!-- <img width="560px" src="https://wakatime.com/share/@KellyKiiru/6d3e5957-0a87-4bcb-9f65-4e159cffca22.svg" /> -->
 
-# 📊GitHub Stats :
-![Overall Starts](https://github-readme-stats.vercel.app/api?username=kellykiiru&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=kellykiiru&theme=react&hide_border=false)<br/>
 
 
 ## 🏆GitHub Trophies
